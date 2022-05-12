@@ -2,7 +2,7 @@
 Website. Group Project for my Software Engineering class.
 
 Group Members:
-  Jaydan Scheel
+  Jaydan Scheel\n
   Chris Ackerley
   Alec Layton
   Allison Clay
