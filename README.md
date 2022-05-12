@@ -1,2 +1,2 @@
 # MiceAndKeyboards
-Group Project for software engineering
+Website. Group Project for my Software Engineering class.
