@@ -1,0 +1,21 @@
+#footer {
+    bottom: 0;
+    color: #707070;
+    left: 0;
+    position: relative;
+    font-size: default;
+    width:100%;
+    overflow: auto;
+}
+
+#main-container {
+    position: relative;
+    overflow: auto;
+}
+
+#accordion-Example {
+  position: relative;
+  overflow: auto;
+}
+
+* {box-sizing: border-box}
