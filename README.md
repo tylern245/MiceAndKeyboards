@@ -1,7 +1,7 @@
 # MiceAndKeyboards
 software engineering end-of-course project
 
-Website Link: http://164.90.157.227
+Website Link: http://67.205.186.161
 Hosted on Digital Ocean (hence why the website link is just the IPv4) (and I don't want to pay for a domain name
 
 LEMP stack. 
