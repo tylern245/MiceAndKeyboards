@@ -2,7 +2,7 @@
 require 'credentials.php';
 
 function pdo_connect_mysql() {
-    $host = '127.0.0.1';
+    $host = 'localhost';
     $db   = 'keyboard_store_schema';
     $user = USERNAME;
     $pass = PASSWORD;
